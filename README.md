@@ -1,6 +1,6 @@
 ### GPT-3 Website
 
-- https://dapper-daffodil-65f636.netlify.app/ - Netlify App
+- (https://dapper-daffodil-65f636.netlify.app/) [Netlify App]
 - GPT3 website Using HTML CSS JavaScript and React.
 - BEM
 - Compatible with all mobile devices.
